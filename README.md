@@ -1,5 +1,5 @@
-Hi 👋 I'm Kalaivani M</h1>
-Aspiring AI Engineer | Java & MERN Developer | ML Enthusiast</h3>
+Hi 👋 I'm Kalaivani M
+Aspiring AI Engineer | Java & MERN Developer | ML Enthusiast
 
 ---
 
